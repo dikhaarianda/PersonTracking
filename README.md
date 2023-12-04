@@ -54,6 +54,10 @@ This repository is used to fulfill the second task – Person Tracking from Indo
     - Image
 
         ![testImage](https://github.com/dikhaarianda/PersonTracking/blob/master/assets/test_dataset.png)
+    
+    - Video
+
+        https://github.com/dikhaarianda/PersonTracking/blob/master/assets/test1.mp4
 
 ### Conclusion
 - For the selection of the model types we have created, namely s and x, the s type has a faster training process compared to the x type, but for the mAP50 result, the x type performs better.
